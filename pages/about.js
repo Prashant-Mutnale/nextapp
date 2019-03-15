@@ -15,7 +15,7 @@ class about extends Component {
 	render() {
 		return (
 			<div>
-				About
+				dad
 	 		</div>
 		);
 	}
